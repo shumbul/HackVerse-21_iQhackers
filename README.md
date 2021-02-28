@@ -12,7 +12,7 @@ In this application we have used real-world cryptocurrency, Dai(DAI), this is a 
 ## Working
 We cannot use tradional webste system for using cryptocurrency as there is a chance of improper fiddling with the crptocurrency balance by owner,i.e. there is a chance that the account balance can be changed maliciously. Hence the use of Ethereum Smart Contracts ensures such safety of account balance and cryptocurrencies. 
 1) Frontend - HTML,JavaScript(ReactJS),CSS (UI/UX of the app)
-2) Smart Contracts - Solidity (This allows us to stake token to applications and reward users new token for using app)
+2) Smart Contracts - Blockchain, Ethereum, Solidity, Web3.js,Truffle (This allows us to stake token to applications and reward users new token for using app)
 
 ## Team Members
 
