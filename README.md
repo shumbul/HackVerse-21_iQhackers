@@ -14,6 +14,8 @@ We cannot use tradional webste system for using cryptocurrency as there is a cha
 1) Frontend - HTML,JavaScript(ReactJS),CSS (UI/UX of the app)
 2) Smart Contracts - Blockchain, Ethereum, Solidity, Web3.js,Truffle (This allows us to stake token to applications and reward users new token for using app)
 
+## DeFi Demo Video
+ Video link [here](https://youtu.be/mAY7m3prrEM).
 ## Team Members
 
 Keerti Chaudhary ([@keerti2001](https://github.com/keerti2001)) <br />
