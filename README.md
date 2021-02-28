@@ -1,11 +1,12 @@
 # HackVerse-21-iQhackers
-This app is minor implementation of our understanding of Liquidity Mining. This is a Decentralised Finance Application that works similar to bank, where basically a user can deposit cryptocurrency into the application and while it is deposited , the user will earn interest (Staking)
+This app is the minor implementation of our understanding of Liquidity Mining. This is a Decentralised Finance Application that works similar to a bank, where basically a user can deposit cryptocurrency into the application and while it is deposited, the user will earn interest (Staking).
+
 This app allows three functions:-
-1)Stake tokens
-2)Unstake tokens 
-3)Issue tokens
-In this application we have used real-world cryptocurrency,Dai(DAI), this is a stable cryptocurrency related to US dollars so the price remains consistent. 
-This app allows user to deposit DAI and earn tokens.
+1) Stake tokens 
+2) Unstake tokens 
+3) Issue tokens 
+
+In this application we have used real-world cryptocurrency, Dai(DAI), this is a stable cryptocurrency related to US dollars so the price remains consistent. This app allows users to deposit DAI and earn tokens.
 
 
 ## Working
